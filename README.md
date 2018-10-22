@@ -2,4 +2,4 @@
 
 
 
-==> [Solution](https://moaazgaballah.github.io/ORTHOGONAL_TRIANGLE/master/Soluion)
+==> [Solution](https://moaazgaballah.github.io/ORTHOGONAL_TRIANGLE/master/Solution)
