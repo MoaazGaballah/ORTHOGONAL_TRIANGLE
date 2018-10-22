@@ -1,1 +1,5 @@
-# ORTHOGONAL_TRIANGLE
+
+
+
+
+==> [Solution](https://moaazgaballah.github.io/ORTHOGONAL_TRIANGLE/master/Soluion)
